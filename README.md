@@ -8,6 +8,6 @@
 * SQL requêtes 
 * Le lien vers projet [Glitch -\"produit-region\"- complété](https://glitch.com/edit/#!/produit-region?path=README.md%3A1%3A0)
 * Visualisation
-  *chiffre-affaires-par-produit.html
-  *
-  * 
+  * chiffre-affaires-par-produit.html
+  * ventes-par-produit.html
+  * ventes-par-region.html
