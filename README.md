@@ -9,5 +9,5 @@
 * Le lien vers projet [Glitch -\"produit-region\"- complété](https://glitch.com/edit/#!/produit-region?path=README.md%3A1%3A0)
 * Visualisation
   * [Chiffre d'affaires par produit](chiffre-affaires-par-produit.html)
-  * ventes-par-produit.html
-  * ventes-par-region.html
+  * [Ventes par produit](ventes-par-produit.html)
+  * [Ventes par region](ventes-par-region.html)
