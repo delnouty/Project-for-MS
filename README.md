@@ -5,7 +5,7 @@
 * Rendre compte des analyses en créant des graphiques avec Python
 ## Résultats
 * Une fiche synthèse des résultats d’analyse obtenus -  projectForMS.ipynb
-* SQL requêtes 
+* [SQL requêtes](projectMS.sql)
 * Le lien vers projet [Glitch -\"produit-region\"- complété](https://glitch.com/edit/#!/produit-region?path=README.md%3A1%3A0)
 * Visualisation
   * chiffre-affaires-par-produit.html
